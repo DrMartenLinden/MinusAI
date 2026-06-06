@@ -2,7 +2,7 @@
 
 A lightweight Chrome Extension that automatically appends `-AI` to all your Google searches. 
 
-With the increasing amount of AI-generated content and overviews in search results, this extension provides a simple way to filter them out by taking advantage of Google's built-in exclusion operator.
+With the increasing amount of AI-generated content and overviews in search results, this extension provides a simple way to filter them out by taking advantage of Google's built-in exclusion operator. It gets rid of Google's AI summaries without having to actively add the `-AI` manually.
 
 ## Features
 - **Automatic filtering:** Silently adds `-AI` to your search queries before the page loads.
